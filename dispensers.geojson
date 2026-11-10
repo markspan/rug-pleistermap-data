@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0cb1f6a2-99af-474a-8146-4a90eece49c5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5575719,
+          53.2230338
+        ]
+      },
+      "properties": {
+        "floor": "02",
+        "building": "2211",
+        "room": "0234",
+        "note": "",
+        "fill": 100,
+        "checkedAt": "2026-11-10T13:11:32.518Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95d05571-e08d-49dc-9122-7a6112ae67aa",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5566203,
+          53.0099124
+        ]
+      },
+      "properties": {
+        "floor": "00",
+        "building": "1",
+        "room": "Kitchen",
+        "note": "",
+        "fill": 100,
+        "checkedAt": "2026-11-10T13:39:27.291Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f34ebdc-a5c1-4ae5-b46c-66db281be7bb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5565878,
+          53.009886
+        ]
+      },
+      "properties": {
+        "floor": "00",
+        "building": "1",
+        "room": "Annex Kitchen",
+        "note": "",
+        "fill": 100,
+        "checkedAt": "2026-11-10T13:39:58.125Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3723049-bfc7-4812-ad9f-ae07f21c64c8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5584027,
+          53.2233747
+        ]
+      },
+      "properties": {
+        "floor": "02",
+        "building": "2212",
+        "room": "0202B",
+        "note": "",
+        "fill": 100,
+        "checkedAt": "2026-11-10T13:07:39.875Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6e7be30-35b8-40e1-bff2-d697e116d5d6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5566333,
+          53.0098656
+        ]
+      },
+      "properties": {
+        "floor": "01",
+        "building": "1",
+        "room": "Bedroom",
+        "note": "",
+        "fill": 100,
+        "checkedAt": "2026-11-10T13:40:29.204Z"
+      }
+    }
+  ]
+}
