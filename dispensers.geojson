@@ -60,6 +60,25 @@
     },
     {
       "type": "Feature",
+      "id": "5ae4f566-9562-4787-97ab-1f223ddf9f60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5574667,
+          53.223076
+        ]
+      },
+      "properties": {
+        "floor": "00",
+        "building": "2211",
+        "room": "0034B",
+        "note": "",
+        "fill": 100,
+        "checkedAt": "2026-11-12T16:25:09.217Z"
+      }
+    },
+    {
+      "type": "Feature",
       "id": "95d05571-e08d-49dc-9122-7a6112ae67aa",
       "geometry": {
         "type": "Point",
